@@ -1,0 +1,17 @@
+.container{
+    padding: 8px;
+    box-shadow: 3px 3px 11px rgb(0 0 0/32%);
+    width: 100%;
+    height: max-content;
+    background-color: rgb(0, 204, 255);
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.item{
+    margin: 0px 16px;
+}
